@@ -1,0 +1,20 @@
+# Max num of bins: 2
+# Bin dimensions (L * W * H): (1100,1100,1100)
+# Max weight: 
+# Relative pos: 
+# Incompatibilities: (4, 7) (7, 9)
+# Positive affinities: 
+# Center of mass: 
+
+  id    quantity    length    width    height    weight
+----  ----------  --------  -------  --------  --------
+   0           2        83      156       224        20
+   1           5       185      231       109        38
+   2           9       188      305       232        21
+   3           9       246      336       157        43
+   4           9       254      361       193        20
+   5           1       279      411       236        20
+   6           3       239      456       205        50
+   7           5       320      462        87        20
+   8           5       342      561       137        20
+   9           5       391      593       125        50
